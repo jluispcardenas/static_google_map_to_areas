@@ -5,6 +5,6 @@ Tool that processes a Google Static Map with OpenCV and gets its build areas in 
 use 
 
 ```
-python3 statuc_google_map_to_areas.py lat lng zoom
+python3 static_google_map_to_areas.py lat lng zoom
 
 ```
