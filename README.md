@@ -8,3 +8,4 @@ use
 python3 static_google_map_to_areas.py lng lat zoom
 
 ```
+  
